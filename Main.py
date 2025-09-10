@@ -4,4 +4,6 @@ alphabet = [
 ]
 numbers = [str(i) for i in range(len(alphabet))]
 
-print(alphabet[25])
+decryptKey = 'sukkertoppen'
+
+print(alphabet[23])
