@@ -5,5 +5,8 @@ alphabet = [
 numbers = [str(i) for i in range(len(alphabet))]
 
 decryptKey = 'sukkertoppen'
+decryptLength = len(decryptKey)
+msg = input("Enter message: ")
 
-print(alphabet[23])
+print(alphabet.index('ab').split)
+print(decryptLength)
