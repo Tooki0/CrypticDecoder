@@ -8,5 +8,5 @@ decryptKey = 'sukkertoppen'
 decryptLength = len(decryptKey)
 msg = input("Enter message: ")
 
-print(alphabet.index('ab').split)
+print(alphabet.index('b'))
 print(decryptLength)
