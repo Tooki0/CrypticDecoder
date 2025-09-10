@@ -4,4 +4,4 @@ alphabet = [
 ]
 numbers = [str(i) for i in range(len(alphabet))]
 
-print(alphabet[28])
+print(alphabet[25])
