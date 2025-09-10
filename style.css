@@ -1,0 +1,10 @@
+video{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 110vw;
+    height: 110vh;
+    object-fit: cover;
+    z-index: -1;
+    filter: blur(8px);
+    transform: translate(-50%, -50%);  }
